@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.ecartTitre {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.flexCenter {
+    display: flex;
+    justify-content: center;
+}
+.flexCenter button {
+    margin-right: 5px;
+}
+.background {
+    background-color: #212529;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.colorFlexBetween {
+    color: white;
+}
